@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-pwa-boilerplate/static/css/main.0109e9ea.chunk.css",
-  "main.js": "/react-pwa-boilerplate/static/js/main.ff4c7662.chunk.js",
-  "main.js.map": "/react-pwa-boilerplate/static/js/main.ff4c7662.chunk.js.map",
-  "static/js/1.a700ff87.chunk.js": "/react-pwa-boilerplate/static/js/1.a700ff87.chunk.js",
-  "static/js/1.a700ff87.chunk.js.map": "/react-pwa-boilerplate/static/js/1.a700ff87.chunk.js.map",
-  "runtime~main.js": "/react-pwa-boilerplate/static/js/runtime~main.9c6294b8.js",
-  "runtime~main.js.map": "/react-pwa-boilerplate/static/js/runtime~main.9c6294b8.js.map",
-  "static/media/logo.svg": "/react-pwa-boilerplate/static/media/logo.5d5d9eef.svg",
-  "static/css/main.0109e9ea.chunk.css.map": "/react-pwa-boilerplate/static/css/main.0109e9ea.chunk.css.map",
-  "index.html": "/react-pwa-boilerplate/index.html",
-  "precache-manifest.2443031b4dd095b2bf1f4acfaf1f2484.js": "/react-pwa-boilerplate/precache-manifest.2443031b4dd095b2bf1f4acfaf1f2484.js",
-  "service-worker.js": "/react-pwa-boilerplate/service-worker.js"
+  "main.css": "/react_pwa_first/static/css/main.0109e9ea.chunk.css",
+  "main.js": "/react_pwa_first/static/js/main.59111056.chunk.js",
+  "main.js.map": "/react_pwa_first/static/js/main.59111056.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/react_pwa_first/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/react_pwa_first/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/react_pwa_first/static/js/runtime~main.c11eb1ba.js",
+  "runtime~main.js.map": "/react_pwa_first/static/js/runtime~main.c11eb1ba.js.map",
+  "static/media/logo.svg": "/react_pwa_first/static/media/logo.5d5d9eef.svg",
+  "static/css/main.0109e9ea.chunk.css.map": "/react_pwa_first/static/css/main.0109e9ea.chunk.css.map",
+  "index.html": "/react_pwa_first/index.html",
+  "precache-manifest.d7ba5a1989433ed3db0abc94f744cd29.js": "/react_pwa_first/precache-manifest.d7ba5a1989433ed3db0abc94f744cd29.js",
+  "service-worker.js": "/react_pwa_first/service-worker.js"
 }
