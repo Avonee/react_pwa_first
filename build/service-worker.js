@@ -36,7 +36,7 @@
 /* eslint-env worker, serviceworker */
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
-
+importScripts('cache-polyfill.js');
 var precacheConfig = [["asset-manifest.json","2d03d848d9e18206b9a707e78bc5ff71"],["cache-polyfill.js","3e07c94b20c469bfb10856ebe3abf9e4"],["favicon.ico","c92b85a5b907c70211f4ec25e29a8c4a"],["index.html","94aaba3ef4223868a79e279e8da596aa"],["manifest.json","4541c81516c2245856b2673d8bc467ad"],["precache-manifest.7ea0e1184031cab002c92ad3ea0de7d7.js","7ea0e1184031cab002c92ad3ea0de7d7"],["static/css/main.0109e9ea.chunk.css","e4abcb758a6ec2e74f0bd61bf1021c4a"],["static/js/1.a700ff87.chunk.js","6bb9f54b68f06c57471636f11e5cc247"],["static/js/main.59111056.chunk.js","5580dc22cd8f99d9701bdd8813ffdb00"],["static/js/runtime~main.c11eb1ba.js","16479a60468d10987434b17682da1333"],["static/media/logo.5d5d9eef.svg","5d5d9eefa31e5e13a6610d9fa7a283bb"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
