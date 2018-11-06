@@ -36,8 +36,8 @@
 /* eslint-env worker, serviceworker */
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
-importScripts('cache-polyfill.js')
-var precacheConfig = [["asset-manifest.json","b12f19d1f714489ef314e3d27d134b0e"],["cache-polyfill.js","3e07c94b20c469bfb10856ebe3abf9e4"],["favicon.ico","c92b85a5b907c70211f4ec25e29a8c4a"],["index.html","0fb5cbaa1c3999084689227869afec42"],["manifest.json","4541c81516c2245856b2673d8bc467ad"],["precache-manifest.cc0914481b63290372d18fb04b4aa6ab.js","cc0914481b63290372d18fb04b4aa6ab"],["static/css/main.0109e9ea.chunk.css","e4abcb758a6ec2e74f0bd61bf1021c4a"],["static/js/1.a700ff87.chunk.js","6bb9f54b68f06c57471636f11e5cc247"],["static/js/main.97a50e76.chunk.js","0402b274b6feccf5e38b3f3c29c0c77d"],["static/js/runtime~main.9c6294b8.js","d6d569043bcd8f8154e015bcedb58040"],["static/media/logo.5d5d9eef.svg","5d5d9eefa31e5e13a6610d9fa7a283bb"]];
+
+var precacheConfig = [["asset-manifest.json","e9621fb41ded47cbc6afd54915e4eabb"],["cache-polyfill.js","3e07c94b20c469bfb10856ebe3abf9e4"],["favicon.ico","c92b85a5b907c70211f4ec25e29a8c4a"],["index.html","d32e5189277cc5ef53230e9c45663fdb"],["manifest.json","4541c81516c2245856b2673d8bc467ad"],["precache-manifest.2443031b4dd095b2bf1f4acfaf1f2484.js","2443031b4dd095b2bf1f4acfaf1f2484"],["static/css/main.0109e9ea.chunk.css","e4abcb758a6ec2e74f0bd61bf1021c4a"],["static/js/1.a700ff87.chunk.js","6bb9f54b68f06c57471636f11e5cc247"],["static/js/main.ff4c7662.chunk.js","9647b675d137ea10ecc6615635b100af"],["static/js/runtime~main.9c6294b8.js","d6d569043bcd8f8154e015bcedb58040"],["static/media/logo.5d5d9eef.svg","5d5d9eefa31e5e13a6610d9fa7a283bb"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
