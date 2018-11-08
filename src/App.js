@@ -19,6 +19,27 @@ class App extends Component {
           >
             Learn React
           </a>
+
+           <a
+            className="App-link"
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <img src="https://d3frsattnbx5l6.cloudfront.net/1532688803714-instagram-94fd767f257b.png" class="styled-icon"></img>
+            Instagram
+          </a>
+
+          <a
+            className="App-link"
+            href="https://www.skype.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" class="styled-icon"></img>
+            Skype
+          </a>
+
         </header>
       </div>
     );
