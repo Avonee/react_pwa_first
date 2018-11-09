@@ -32,7 +32,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "skype://raquelmota1977?chat"//"https://www.skype.com/zh-Hant/get-skype/"//"https://www.skype.com"
+            href= "skype://rubl333?chat"// skype://[user's id]?chat
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -42,12 +42,22 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "https://www.evernote.com/client/web"//"https://www.evernote.com/Login.action"//"https://www.evernote.com"
+            href= "https://www.evernote.com/client/web"
             target="_blank"
             rel="noopener noreferrer"
           >
           <img src="https://images.fastcompany.net/image/upload/w_1280,f_jpg,q_auto,fl_lossy/wp-cms/uploads/2018/08/p-2-evernote.gif" class="styled-icon"></img>
             Evernote
+          </a>
+
+           <a
+            className="App-link"
+            href= "https://www.evernote.com/client/web"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/IOS_iMovie.png" class="styled-icon"></img>
+            iMovie
           </a>
 
 
