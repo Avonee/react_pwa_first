@@ -32,7 +32,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "skype://?xxxxxx"//"skype://rubl333?chat"// skype://[user's id]?chat
+            href= "skype://?xxxxxx"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -52,7 +52,7 @@ class App extends Component {
 
            <a
             className="App-link"
-            href= "https://www.evernote.com/client/web"
+            href= "https://www.apple.com/imovie/"
             target="_blank"
             rel="noopener noreferrer"
           >
