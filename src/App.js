@@ -42,7 +42,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "https://www.evernote.com/notelink/Login.action?targetUrl=%2Fshard%2Fs3%2Fnl%2F237001%2F232d6d1e-11b5-40f3-aa53-f278f070f5a7"//"https://www.evernote.com"
+            href= "https://www.evernote.com/Login.action"//"https://www.evernote.com"
             target="_blank"
             rel="noopener noreferrer"
           >
