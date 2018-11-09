@@ -32,7 +32,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "skype://rubl333?chat"// skype://[user's id]?chat
+            href= "skype://?xxxxxx"//"skype://rubl333?chat"// skype://[user's id]?chat
             target="_blank"
             rel="noopener noreferrer"
           >
