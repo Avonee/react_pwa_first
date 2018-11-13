@@ -52,7 +52,7 @@ class App extends Component {
 
            <a
             className="App-link"
-            href= "https://www.apple.com/imovie/"
+            href= "imovie://"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -62,7 +62,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "http://connect.polycom.com/content/polycom/ppn/login.html"
+            href= "polycom://"
             target="_blank"
             rel="noopener noreferrer"
           >
