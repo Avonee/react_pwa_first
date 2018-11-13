@@ -62,7 +62,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "items-apps://itunes.apple.com/app/id465412616"
+            href= "https://itunes.apple.com/app/id465412616"
             target="_blank"
             rel="noopener noreferrer"
           >
