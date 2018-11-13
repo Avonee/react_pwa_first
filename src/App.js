@@ -60,6 +60,15 @@ class App extends Component {
             iMovie
           </a>
 
+          <a
+            className="App-link"
+            href= "http://connect.polycom.com/content/polycom/ppn/login.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <img src="https://lh3.ggpht.com/OtNA7gl_o8AGCySWZoxp5jUZDWoF4eXl-5a3dAlVTnOOL5XLhaBcI60BJ-wUYS2lsftR=w300" class="styled-icon"></img>
+            Polycom
+          </a>
 
         </header>
       </div>
