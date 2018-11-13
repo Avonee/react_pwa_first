@@ -62,7 +62,7 @@ class App extends Component {
 
           <a
             className="App-link"
-            href= "polycomrealPresence://"//"realPresence://"//"polycom://"
+            href= "polycom-realpresence-mobile-hd://"
             target="_blank"
             rel="noopener noreferrer"
           >
